@@ -1,0 +1,65 @@
+{
+    "name": "Fallible",
+    "description": "Fallible secures your API endpoints and protects you from data breaches.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20062-fallible.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fallible\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fallible",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20062-fallible.jpg",
+            "humanURL": "https:\/\/fallible.co\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fallible-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fallible-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/fallible.co\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/fallible.co\/atom.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fallible"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/FallibleInc"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/fallible.co\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fallible_inc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/fallible.co\/"
+        }
+    ]
+}
